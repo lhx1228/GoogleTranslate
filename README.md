@@ -38,11 +38,5 @@ win10
 
 ## 代码运行方法
 
-将全部文件[下载](https://github.com/lhx1228/GoogleTransaction)下来，放入同一个文件运行`win_forTrans.py`即可。
-
-
-
-
-
-
+将全部文件[下载](https://github.com/lhx1228/GoogleTranslate)下来，放入同一个文件运行`win_forTrans.py`即可。
 
