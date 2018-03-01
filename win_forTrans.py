@@ -1,4 +1,3 @@
-import sys
 import tkinter
 import GoogleTranslate
 from tkinter import *
