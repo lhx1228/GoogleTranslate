@@ -1,7 +1,4 @@
-import json
 import requests
-import re
-from bs4 import BeautifulSoup
 from get_tk import Py4Js
 
 def main(Word):   #获取tk值
