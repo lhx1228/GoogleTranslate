@@ -47,3 +47,7 @@ win10
 ## 后期展望
 
 代码只可以用来汉英互译，之后会尝试加上其他语言之间的翻译
+
+## 参考资料
+
+[tk值的获取](http://blog.csdn.net/yingshukun/article/details/53470424)
